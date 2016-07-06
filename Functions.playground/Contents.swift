@@ -43,3 +43,67 @@ func getAgeAndCongratulate(name: String) -> Int {
 
 let friend2 = "Pete"
 var friend2Age = getAgeAndCongratulate(friend2)
+
+
+
+
+func printAgeAgain(name: String) {
+    print("\(name) is 29")
+    
+}
+printAgeAgain("Adam")
+
+func printHappyBirthday(age: Int){
+    print("Happy Birthday #\(age)!")
+}
+printHappyBirthday(9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
